@@ -254,7 +254,8 @@ urlpatterns = [
 ```
 
 # OUTPUT:
-![alt text](medoutput.png)
+<img width="1920" height="1020" alt="medoutput" src="https://github.com/user-attachments/assets/fd598b18-cd36-4381-aea3-dad3bb2cd682" />
+
 
 # RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
